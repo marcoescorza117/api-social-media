@@ -1,0 +1,15 @@
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\bin\Debug\net5.0\SocialMediaBackend.Infrastructure.deps.json
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\bin\Debug\net5.0\SocialMediaBackend.Infrastructure.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\bin\Debug\net5.0\ref\SocialMediaBackend.Infrastructure.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\bin\Debug\net5.0\SocialMediaBackend.Infrastructure.pdb
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\bin\Debug\net5.0\SocialMediaBackend.Core.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\bin\Debug\net5.0\SocialMediaBackend.Core.pdb
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\SocialMediaBackend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\SocialMediaBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\SocialMediaBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\SocialMediaBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\SocialMediaBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\SocialMediaBackend.Infrastructure.csproj.CopyComplete
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\SocialMediaBackend.Infrastructure.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\ref\SocialMediaBackend.Infrastructure.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Infrastructure\obj\Debug\net5.0\SocialMediaBackend.Infrastructure.pdb

@@ -1,0 +1,12 @@
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\bin\Debug\net5.0\SocialMediaBackend.Core.deps.json
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\bin\Debug\net5.0\SocialMediaBackend.Core.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\bin\Debug\net5.0\ref\SocialMediaBackend.Core.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\bin\Debug\net5.0\SocialMediaBackend.Core.pdb
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\obj\Debug\net5.0\SocialMediaBackend.Core.csproj.AssemblyReference.cache
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\obj\Debug\net5.0\SocialMediaBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\obj\Debug\net5.0\SocialMediaBackend.Core.AssemblyInfoInputs.cache
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\obj\Debug\net5.0\SocialMediaBackend.Core.AssemblyInfo.cs
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\obj\Debug\net5.0\SocialMediaBackend.Core.csproj.CoreCompileInputs.cache
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\obj\Debug\net5.0\SocialMediaBackend.Core.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\obj\Debug\net5.0\ref\SocialMediaBackend.Core.dll
+C:\Users\marcoescorza\source\repos\SocialMediaBackend\SocialMediaBackend.Core\obj\Debug\net5.0\SocialMediaBackend.Core.pdb

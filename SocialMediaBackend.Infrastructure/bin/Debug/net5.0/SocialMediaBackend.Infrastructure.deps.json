@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SocialMediaBackend.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SocialMediaBackend.Core": "1.0.0"
+        },
+        "runtime": {
+          "SocialMediaBackend.Infrastructure.dll": {}
+        }
+      },
+      "SocialMediaBackend.Core/1.0.0": {
+        "runtime": {
+          "SocialMediaBackend.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocialMediaBackend.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SocialMediaBackend.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
