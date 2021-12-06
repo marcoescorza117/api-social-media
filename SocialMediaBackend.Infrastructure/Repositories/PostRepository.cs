@@ -1,4 +1,8 @@
-﻿using SocialMediaBackend.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using SocialMediaBackend.Core.Data;
+using SocialMediaBackend.Core.Entities;
+using SocialMediaBackend.Core.Interfaces;
+using SocialMediaBackend.Infrastructure.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,11 +11,18 @@ using System.Threading.Tasks;
 
 namespace SocialMediaBackend.Infrastructure.Repositories
 {
-    public class PostRepository
+    public class PostRepository :IPostRepository
     {
-        public IEnumerable<Post> GetPosts()
+        //inyeccioon de dependencias
+        private readonly SocialMediaContext _context;
+        public PostRepository(SocialMediaContext context)
         {
-            var post = Enumerable.Range(1, 10).Select(x => new Post { 
+            _context = context;
+        }
+
+        public async Task<IEnumerable<Publicacion>> GetPosts()
+        {
+            /*var post = Enumerable.Range(1, 10).Select(x => new Post { 
             
                 PostId = x,
                 Description = $"Description {x}",
@@ -20,8 +31,16 @@ namespace SocialMediaBackend.Infrastructure.Repositories
                 UserId = x*2
 
             });
-
+            await Task.Delay(10);
             return post;
+            */
+
+            var post = await _context.Publicacions.ToListAsync(); //Directamnet a base de datos
+            return post;
+
+
         }
+
+        
     }
 }

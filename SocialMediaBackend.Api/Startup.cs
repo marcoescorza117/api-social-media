@@ -2,11 +2,15 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using SocialMediaBackend.Core.Interfaces;
+using SocialMediaBackend.Infrastructure.Data;
+using SocialMediaBackend.Infrastructure.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,6 +36,14 @@ namespace SocialMediaBackend.Api
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SocialMediaBackend.Api", Version = "v1" });
             });
+
+            services.AddDbContext<SocialMediaContext>(options => {
+                options.UseSqlServer(Configuration.GetConnectionString("SocialMedia")); //Se crea cadena de conexion a base de datos...
+            });
+
+            services.AddTransient<IPostRepository, PostRepository>(); // Inyeccion de dependencias
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
